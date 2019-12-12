@@ -658,19 +658,10 @@ xclip
 .right-box-pro{
 	position: relative;
 }
+
 .right-box-pro img{
 	z-index: 2;
 }
-.right-box-pro::before {
-    
-}
-
-.fat-ab{}
-
-
-
-
-
 
 .services-inner-box{
 	padding: 15px;
@@ -1587,8 +1578,6 @@ hr.invis1 {
 	top: 50%;
 }
 
-.spi-hr{}
-
 .spi-hr *, .spi-hr::before, .spi-hr::after {
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
@@ -2436,7 +2425,7 @@ select.mobile-device {
     font-weight: 400;
     font-size: 20px;
     text-transform: capitalize;
-    line-height: !important;
+    line-height: 1 !important;
 }
 
 .footer {
@@ -2684,7 +2673,7 @@ select.mobile-device {
     color: #999 !important;
     margin: 0 !important;
     padding: 0 !important;
-    line-height: 1 !important:
+    line-height: 1 !important;
 }
 
 .stat-wrap p {
@@ -2693,7 +2682,7 @@ select.mobile-device {
     margin: 0;
     font-weight: 300;
     padding: 4px 0 0;
-    line-height: 1 !important:
+    line-height: 1 !important;
 }
 
 #preloader {
@@ -2826,3 +2815,4 @@ select.mobile-device {
     width:100%;
     position:absolute;
 }
+
